@@ -1,2 +1,2 @@
 # PG-Life-Website
-Mini Project by Harsh Sharma
+Live Link-https://pg-living.netlify.app/?city=ss
